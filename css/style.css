@@ -114,14 +114,14 @@ nav a:hover {
 }
 
 .texto p {
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 20px;
-  /* border: solid 2px #db6c9f; */
-  border-radius: 30%;
+  border-radius: 10%;
   padding: 7%;
   box-shadow: 10px 10px 5px 0px #FFC8DD;
   -webkit-box-shadow: 10px 10px 5px 0px #FFC8DD;
   -moz-box-shadow: 10px 10px 5px 0px #FFC8DD;
+  font-family: fantasy;
 }
 
 /* footer */
